@@ -69,6 +69,8 @@ The late nineteenth and early twentieth centuries witnessed a profusion of avant
 ### 'Nude' - Joan Miro, Max Morise, Man Ray, and Yves Tanguy (1927)
 ![Miro, Morise, Ray, and Tanguy](images/Nude.png?raw=true "Miro, Morise, Ray, and Tanguy")
 
+[Here's a link to the piece](https://www.moma.org/collection/works/35701)
+
 
 [396]
 
@@ -82,7 +84,7 @@ The late nineteenth and early twentieth centuries witnessed a profusion of avant
 ![Nathalie Miebach](images/Miebach1.png?raw=true "Nathalie Miebach")
 ![Nathalie Miebach](images/Miebach2.png?raw=true "Nathalie Miebach")
 
-It is undeniable that the artistic impulse which drives Nathalie Miebach’s craft is radically singular. Extracting incredibly complex sets of data from severe storms, hurricanes, and similarly seismic events across the globe, Miebach appeals towards meteorological sources for her artistic inspiration, converting such data into incredibly elaborate visualized sculptures constructed from a chaotic combination of materials which largely consists of an evocative combination between vibrantly coloured beads and wicker materials. Based upon such meteorological properties as wind speeds, weather temperatures, and water patterns, Miebach’s sculptures also serve the role of visual accompaniment to a string quartet whose performances aim to match the ferocious intensity of such events. Changing Waters – exhibited at the Fitchburg Art Museum from March to June of 2015 – is specifically concerned with the oceanic interactions which unfold within the Gulf of Maine with the ambition of exploring the seasonal variations of marine life across the region. Relying upon a combination between marine and atmospheric data, Miebach successfully evokes the chaotic sprawl of the variety of distinct ecosystems which populate the region, and their biological, chemical, and geophysical relationships toward the specific weather patterns which surround them.
+It is undeniable that the artistic impulse which drives Nathalie Miebach’s craft is radically singular. Extracting incredibly complex sets of data from severe storms, hurricanes, and similarly seismic events across the globe, Miebach appeals towards meteorological sources for her artistic inspiration, converting such data into incredibly elaborate visualized sculptures constructed from a chaotic combination of materials which largely consists of an evocative combination between vibrantly coloured beads and wicker materials. Based upon such meteorological properties as wind speeds, weather temperatures, and water patterns, Miebach’s sculptures also serve the role of visual accompaniment to a string quartet whose performances aim to match the ferocious intensity of such events. 'Changing Waters' – exhibited at the Fitchburg Art Museum from March to June of 2015 – is specifically concerned with the oceanic interactions which unfold within the Gulf of Maine with the ambition of exploring the seasonal variations of marine life across the region. Relying upon a combination between marine and atmospheric data, Miebach successfully evokes the chaotic sprawl of the variety of distinct ecosystems which populate the region, and their biological, chemical, and geophysical relationships toward the specific weather patterns which surround them.
 
 [Here's a link to the piece](http://nathaliemiebach.com/waters20.html)
 
@@ -92,10 +94,33 @@ It is undeniable that the artistic impulse which drives Nathalie Miebach’s cra
 ![Chris Jordan](images/Jordan2.png?raw=true "Chris Jordan")
 ![Chris Jordan](images/Jordan3.png?raw=true "Chris Jordan")
 
-Deriving inspiration from the shocking statistics which underlyingly organize American culture in the 21st Century, American artist Chris Jordan provocatively forces his audience to re-examine their typically held daily behaviours through his unique exhibition Running the Numbers: An American Self-Portrait – a veritable tour de force of digitally produced art. Once such behaviours are aggregated and extended to the realm of mass culture, the statistics become somewhat frightening. Owing to Jordan’s innovative inclusion of an interactive zoom-in/zoom-out feature, the user is afforded the ability to zoom-in on digitally rendered recreations of a variety of images including cartoons, the moon, and seminal paintings such as Seurat’s Sunday afternoon on the island of La Grande-Jatte and, in the case of “Skull with Cigarette”, Van Gogh’s 1886 work Head of a Skeleton with a Burning Cigarette. As the user zooms in on the skull at a comfortably deliberate pace, it slowly becomes apparent that the image is, in fact, comprised of cigarette packs in lieu of pixels. Meanwhile, the stark description included by Jordan is simply impossible to ignore: “Depicts 200,000 packs of cigarettes, equal to the number of American who die from cigarette smoking every six months.”
+Deriving inspiration from the shocking statistics which underlyingly organize American culture in the 21st Century, American artist Chris Jordan provocatively forces his audience to re-examine their typically held daily behaviours through his unique exhibition 'Running the Numbers: An American Self-Portrait' – a veritable tour de force of digitally produced art. Once such behaviours are aggregated and extended to the realm of mass culture, the statistics become somewhat frightening. Owing to Jordan’s innovative inclusion of an interactive zoom-in/zoom-out feature, the user is afforded the ability to zoom-in on digitally rendered recreations of a variety of images including cartoons, the moon, and seminal paintings such as Seurat’s Sunday afternoon on the island of La Grande-Jatte and, in the case of “Skull with Cigarette”, Van Gogh’s 1886 work 'Head of a Skeleton with a Burning Cigarette'. As the user zooms in on the skull at a comfortably deliberate pace, it slowly becomes apparent that the image is, in fact, comprised of cigarette packs in lieu of pixels. Meanwhile, the stark description included by Jordan is simply impossible to ignore: “Depicts 200,000 packs of cigarettes, equal to the number of American who die from cigarette smoking every six months.”
 
 [Here's a link to the piece](http://www.chrisjordan.com/gallery/rtn/#skull-with-cigarette)
 
 
 [403]
 
+
+
+
+# Blog Post VI - Physical Computing and Connected Messaging
+------
+
+### 'Data-Masks' - Sterling Crispin (2013 - 2015)
+![Sterling Crispin](images/Crispin.png?raw=true "Sterling Crispin")
+
+Through his radical exhibition 'Data-Masks', avant-garde digital artist Sterling Crispin successfully expresses an intense distrust, perhaps even burgeoning upon paranoia, towards the advancement of facial recognition technologies and their role in law enforcement agencies. Striving to expose the essential inhumanity of the manner in which such technologies operate through, rather unsettlingly, abstracting our features, and converting them into statistical patterns. Herein rests the crux of Crispin’s artistic impulse – to render "aspects of these invisible power structures visible." The ‘data-mask’ itself is created through the complex reverse engineering of facial recognition and detection algorithms which are subsequently 3D printed as some kind of amorphous nylon material. A surreal and intriguing exhibition without doubt, but undeniably bizarre – at least slightly. As is Crispin’s conception of the masks themselves: “Data-Masks are animistic deities brought out of the algorithmic-spirit-world of the machine and into our material world, ready to tell us their secrets, or warn us of what's to come”.
+
+[Here's a link to the piece](http://www.sterlingcrispin.com/data-masks.html)
+
+
+### 'Ghost Pole Propagator II' - Golan Levin (2016)
+![Golan Levin](images/Levin.png?raw=true "Golan Levin")
+
+As iconically adopted by the late Keith Haring, a primitive stick-figure drawing can be used to express an abundance of human movement and emotion. Channeling this simplistic sense of expression, veteran digital artist Golan Levin’s interactive installation 'Ghost Pole Propagator II' relies upon the image processing technique of skeletonization. Skeletonization both captures and preserves the gestural movements of the participants, generating an extremely sophisticated laser silhouette of not only the current participants, but also the traces of those who had their movements captured earlier over the course of the installation. Due to this chronological discrepancy, or lag, the screen is almost constantly populated by a whole array of dancing figures. Held in Houston over the month of December, 2016, Levin aspired to “produce a layered and dynamic tapestry that reflects the history and activity of its locale” through the created effect of a perennial party.
+
+[Here's a link to the piece](http://www.flong.com/projects/gpp-ii/)
+
+
+[314]
