@@ -60,19 +60,42 @@ Credited as the creator of AARON – a computer program which creates art autono
 
 
 
-# Blog Post IV - Control and Algorithmic Expression Reflection
+# Blog Post IV - Control and Algorithmic Expression
 ------
 
 The late nineteenth and early twentieth centuries witnessed a profusion of avant-garde movements blossom across the global artistic landscape, including the Fauvist, Futurist, and Dada movements. However, Surrealism is often lauded as the most pervasive and revolutionary of these various artistic movements. Philosophically indebted to latent Freudian influences, the Surrealists strove to liberate the artist from the shackles of the rational in the hope of achieving a more organic, truer form of artistic expression – artistic expression untainted by the restrictive qualities of conscious rationality. Control could only prove constraining to the surrealists. The rise to prominence of the cadavre exquis provides a powerful testament to the lengths to which the surrealists journeyed in the hope of fulfilling their ambition. A cadavre exquis is guided by two primary ideals: collaboration, and the artist’s utter lack of control as he blindly contributes to the greater totality of a work without witnessing the contributions of the other artists involved in the piece. For example, the seminal 1927 work 'Nude' (included below) represents a collaborative endeavour shared between the influential artistic quartet of Joan Miro, Max Morise, Man Ray, and Yves Tanguy, and has become engrained within the fabric of not only the surrealist canon, but also of the wider avant-garde canon itself. Owing to my deep-rooted interest in Surrealism, the question of artistic control in relation to the creation of organic art presents itself as thoroughly intriguing to me, and I was eager to explore which unforeseeable avenues the implementation of such principles would lead my work. In particular, I was fascinated with the idea of a piece’s self-emergence through algorithmic expression, and I sought to achieve the effect of a minimalist piece which could emerge, from essential nothingness, through its own digital rhythms yet still prove malleable to the user through such elements as his ability to adjust and manipulate both the speed of the so-called ‘jail-bars’, and the direction in which they move vertically across the screen. Ultimately, these parameters successfully enabled me to maintain a degree of aesthetic control and rigidity over the work, and, as a result, it failed to ever arrive at a stage of algorithmic entropy where I felt like the piece had transformed beyond its intended aesthetics – aesthetics which were rooted within the ideal of achieving a vaguely controllable chaos.
-
-
-[396]
 
 
 ### 'Nude' - Joan Miro, Max Morise, Man Ray, and Yves Tanguy (1927)
 ![Miro, Morise, Ray, and Tanguy](images/Nude.png?raw=true "Miro, Morise, Ray, and Tanguy")
 
 
+[396]
 
 
+
+
+# Blog Post V - Art and Data
+------
+
+### 'Changing Waters' - Nathalie Miebach (2017)
+![Nathalie Miebach](images/Miebach1.png?raw=true "Nathalie Miebach")
+![Nathalie Miebach](images/Miebach2.png?raw=true "Nathalie Miebach")
+
+It is undeniable that the artistic impulse which drives Nathalie Miebach’s craft is radically singular. Extracting incredibly complex sets of data from severe storms, hurricanes, and similarly seismic events across the globe, Miebach appeals towards meteorological sources for her artistic inspiration, converting such data into incredibly elaborate visualized sculptures constructed from a chaotic combination of materials which largely consists of an evocative combination between vibrantly coloured beads and wicker materials. Based upon such meteorological properties as wind speeds, weather temperatures, and water patterns, Miebach’s sculptures also serve the role of visual accompaniment to a string quartet whose performances aim to match the ferocious intensity of such events. Changing Waters – exhibited at the Fitchburg Art Museum from March to June of 2015 – is specifically concerned with the oceanic interactions which unfold within the Gulf of Maine with the ambition of exploring the seasonal variations of marine life across the region. Relying upon a combination between marine and atmospheric data, Miebach successfully evokes the chaotic sprawl of the variety of distinct ecosystems which populate the region, and their biological, chemical, and geophysical relationships toward the specific weather patterns which surround them.
+
+[Here's a link to the piece](http://nathaliemiebach.com/waters20.html)
+
+
+### "Skull with Cigarette", 'Running the Numbers: An American Self-Portrait' – Chris Jordan (2006 – present)
+![Chris Jordan](images/Jordan1.png?raw=true "Chris Jordan")
+![Chris Jordan](images/Jordan2.png?raw=true "Chris Jordan")
+![Chris Jordan](images/Jordan3.png?raw=true "Chris Jordan")
+
+Deriving inspiration from the shocking statistics which underlyingly organize American culture in the 21st Century, American artist Chris Jordan provocatively forces his audience to re-examine their typically held daily behaviours through his unique exhibition Running the Numbers: An American Self-Portrait – a veritable tour de force of digitally produced art. Once such behaviours are aggregated and extended to the realm of mass culture, the statistics become somewhat frightening. Owing to Jordan’s innovative inclusion of an interactive zoom-in/zoom-out feature, the user is afforded the ability to zoom-in on digitally rendered recreations of a variety of images including cartoons, the moon, and seminal paintings such as Seurat’s Sunday afternoon on the island of La Grande-Jatte and, in the case of “Skull with Cigarette”, Van Gogh’s 1886 work Head of a Skeleton with a Burning Cigarette. As the user zooms in on the skull at a comfortably deliberate pace, it slowly becomes apparent that the image is, in fact, comprised of cigarette packs in lieu of pixels. Meanwhile, the stark description included by Jordan is simply impossible to ignore: “Depicts 200,000 packs of cigarettes, equal to the number of American who die from cigarette smoking every six months.”
+
+[Here's a link to the piece](http://www.chrisjordan.com/gallery/rtn/#skull-with-cigarette)
+
+
+[403]
 
