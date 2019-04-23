@@ -24,6 +24,7 @@ Hedger released May Contain on 25th May 2018 as a promotional video to acclaim. 
 
 
 
+
 # Blog Post II - 'Hello World' Reflection
 ------
 
@@ -31,6 +32,7 @@ As an English major who has perennially found himself at various battling odds w
 
 
 [358]
+
 
 
 
@@ -54,3 +56,17 @@ Credited as the creator of AARON – a computer program which creates art autono
 
 
 [366]
+
+
+
+
+# Blog Post IV - Control and Algorithmic Expression Reflection
+------
+
+The late nineteenth and early twentieth centuries witnessed a profusion of avant-garde movements blossom across the global artistic landscape, including the Fauvist, Futurist, and Dada movements. However, Surrealism is often lauded as the most pervasive and revolutionary of these various artistic movements. Philosophically indebted to latent Freudian influences, the Surrealists strove to liberate the artist from the shackles of the rational in the hope of achieving a more organic, truer form of artistic expression – artistic expression untainted by the restrictive qualities of conscious rationality. Control could only prove constraining to the surrealists. The rise to prominence of the cadavre exquis provides a powerful testament to the lengths to which the surrealists journeyed in the hope of fulfilling their ambition. A cadavre exquis is guided by two primary ideals: collaboration, and the artist’s utter lack of control as he blindly contributes to the greater totality of a work without witnessing the contributions of the other artists involved in the piece. For example, the seminal 1927 work Nude (included below) represents a collaborative endeavour shared between the influential artistic quartet of Joan Miro, Max Morise, Man Ray, and Yves Tanguy, and has become engrained within the fabric of not only the surrealist canon, but also of the wider avant-garde canon itself. Owing to my deep-rooted interest in Surrealism, the question of artistic control in relation to the creation of organic art presents itself as thoroughly intriguing to me, and I was eager to explore which unforeseeable avenues the implementation of such principles would lead my work. In particular, I was fascinated with the idea of a piece’s self-emergence through algorithmic expression, and I sought to achieve the effect of a minimalist piece which could emerge, from essential nothingness, through its own digital rhythms yet still prove malleable to the user through such elements as his ability to adjust and manipulate both the speed of the so-called ‘jail-bars’, and the direction in which they move vertically across the screen. Ultimately, these parameters successfully enabled me to maintain a degree of aesthetic control and rigidity over the work, and, as a result, it failed to ever arrive at a stage of algorithmic entropy where I felt like the piece had transformed beyond its intended aesthetics – aesthetics which were rooted within the ideal of achieving a vaguely controllable chaos.
+
+
+[396]
+
+
+
